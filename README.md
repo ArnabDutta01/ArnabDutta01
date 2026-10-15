@@ -6,7 +6,7 @@
 <!-- Edit the three roles in "lines=" (use + for spaces, ; between roles) -->
 <p align="center">
   <a href="https://github.com/ArnabDutta01">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=YOUR+ROLE+1;YOUR+ROLE+2;YOUR+ROLE+3" alt="Typing roles"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;ML Engineer;" alt="Typing roles"/>
   </a>
 </p>
 
@@ -47,19 +47,24 @@ Final year Electronics student who enjoys building ML models and full-stack web 
 </p>
 
 **Frontend**
-<p align="left">[ADD: e.g. replace this line with &lt;img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark"/&gt;]</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,ts&theme=dark" alt="Languages"/>
+</p>
 
 **Backend**
-<p align="left">[ADD YOUR BACKEND TOOLS]</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,git,github,gitlfs,linux&theme=dark" alt="Languages"/>
+  </p>
 
 **Databases**
-<p align="left">[ADD YOUR DATABASES]</p>
-
-**Cloud & DevOps**
-<p align="left">[ADD YOUR CLOUD / DEVOPS TOOLS]</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" alt="Languages"/>
+</p>
 
 **Tools & ML**
-<p align="left">[ADD YOUR TOOLS, e.g. git, vscode, pytorch]</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sklearn,matlab,pytorch,opencv&theme=dark" alt="Languages"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt=""/>
 
@@ -68,9 +73,9 @@ Final year Electronics student who enjoys building ML models and full-stack web 
 
 | Project | Stack | Highlight |
 |:--|:--|:--|
-| [MRI Knee Ligament Tear Prediction](https://github.com/ArnabDutta01/MRI-knee-ligament-tear-prediction) | Python · [ADD] | [ONE-LINE RESULT, e.g. model accuracy] |
-| [realtime_colab](https://github.com/ArnabDutta01/realtime_colab) | TypeScript · [ADD] | [ONE-LINE DESCRIPTION] |
-| [Supply_Sense](https://github.com/ArnabDutta01/Supply_Sense) | JavaScript · [ADD] | [ONE-LINE DESCRIPTION] |
+| [MRI Knee Ligament Tear Prediction](https://github.com/ArnabDutta01/MRI-knee-ligament-tear-prediction) | Python · PyTorch, Torchvision · EfficientNet-B0 · Scikit-learn · OpenCV ·  Matplotlib · Git LFS | Achieved 0.941 AUC on the Stanford MRNet benchmark |
+| [realtime_colab](https://github.com/ArnabDutta01/realtime_colab) | TypeScript · React · Node.js · WebSockets (uWebSockets.js) · Yjs (CRDT) · Redis · PostgreSQL | Engineered a Google Docs-style collaborative editor|
+| [Supply_Sense](https://github.com/ArnabDutta01/Supply_Sense) | Python · JavaScript · React · Node.js · Express.js · MongoDB · REST APIs · Data Analytics | Developed Python analytics for automated carbon hotspot detection |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt=""/>
 
