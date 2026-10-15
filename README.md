@@ -53,7 +53,7 @@ Final year Electronics student who enjoys building ML models and full-stack web 
 
 **Backend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,git, github, linux&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,git,github,linux&theme=dark" alt="Languages"/>
   </p>
 
 **Databases**
