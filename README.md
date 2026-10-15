@@ -105,6 +105,6 @@ Final year Electronics student who enjoys building ML models and full-stack web 
 </p>
 
 <!-- ===================== FOOTER ===================== -->
-<p align="center"><i>Thanks for stopping by. Always happy to talk about [YOUR FAVOURITE TOPIC].</i></p>
+<p align="center"><i>Thanks for stopping by. Always happy to talk about any technical problems.</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%" alt=""/>
