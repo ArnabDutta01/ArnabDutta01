@@ -75,7 +75,7 @@ Final year Electronics student who enjoys building ML models and full-stack web 
 |:--|:--|:--|
 | [MRI Knee Ligament Tear Prediction](https://github.com/ArnabDutta01/MRI-knee-ligament-tear-prediction) | Python · PyTorch, Torchvision · EfficientNet-B0 · Scikit-learn · OpenCV ·  Matplotlib · Git LFS | Achieved 0.941 AUC on the Stanford MRNet benchmark |
 | [realtime_colab](https://github.com/ArnabDutta01/realtime_colab) | TypeScript · React · Node.js · WebSockets (uWebSockets.js) · Yjs (CRDT) · Redis · PostgreSQL | Engineered a Google Docs-style collaborative editor|
-| [Supply_Sense](https://github.com/ArnabDutta01/Supply_Sense) | Python · JavaScript · React · Node.js · Express.js · MongoDB · REST APIs · Data Analytics | Developed Python analytics for automated carbon hotspot detection |
+| [Supply_Sense_Carbon_Emission]([https://github.com/ArnabDutta01/Supply_Sense](https://github.com/ArnabDutta01/Supply-Sense-Carbon-Emission)) | Python · JavaScript · React · Node.js · Express.js · MongoDB · REST APIs · Data Analytics | Developed Python analytics for automated carbon hotspot detection |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt=""/>
 
