@@ -23,7 +23,7 @@ EXCLUDE = {
     for r in os.environ.get("EXCLUDE_REPOS", "firstcontributions/first-contributions").split(",")
     if r.strip()
 }
-MAX_ROWS = 6
+MAX_ROWS = 4
 README = "README.md"
 PET_FILE = "assets/pet.svg"
 START, END = "<!-- PRS:START -->", "<!-- PRS:END -->"
