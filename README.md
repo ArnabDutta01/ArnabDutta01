@@ -25,10 +25,11 @@ Currently building *NeetDesk*, a scheduler I share with my friends.
 
 <!-- Updated every 6 hours by .github/workflows/profile.yml. Don't edit between the markers. -->
 <!-- PRS:START -->
-**1 merged** across 1 project · **8 in review**
+**2 merged** across 2 projects · **7 in review**
 
 **Recently merged**
 
+- [python/typeshed#16831](https://github.com/python/typeshed/pull/16831) \[pyphen\] language\_fallback can return None · merged 2026-11-16
 - [lingdojo/kana-dojo#16765](https://github.com/lingdojo/kana-dojo/pull/16765) content: add video game quote · merged 2026-05-13
 
 **In review**
@@ -36,7 +37,7 @@ Currently building *NeetDesk*, a scheduler I share with my friends.
 - [aio-libs/aiohttp#14391](https://github.com/aio-libs/aiohttp/pull/14391) Fix the %% escape in the access log format · opened 2026-11-16
 - [fsspec/filesystem_spec#2467](https://github.com/fsspec/filesystem_spec/pull/2467) Pass share\_access to SMB files opened with autocommit=False · opened 2026-11-16
 - [goreleaser/goreleaser#7323](https://github.com/goreleaser/goreleaser/pull/7323) fix(nix): add arm archives without goarm to the url and sha maps · opened 2026-11-16
-- [python/typeshed#16831](https://github.com/python/typeshed/pull/16831) \[pyphen\] language\_fallback can return None · opened 2026-11-16
+- [a2aproject/a2a-python#1476](https://github.com/a2aproject/a2a-python/pull/1476) fix(client): map JSON-RPC error bodies sent with a non-2xx HTTP status · opened 2026-11-15
 <!-- PRS:END -->
 
 ---
