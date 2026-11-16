@@ -106,14 +106,6 @@ I fix bugs in AI and cloud-native projects. Right now: Kubeflow Spark Operator, 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt=""/>
 
-<!-- ===================== GITHUB METRICS ===================== -->
-## 📊 GitHub Metrics
-
-<!-- Generated daily by .github/workflows/metrics.yml (lowlighter/metrics) -->
-<p align="center">
-  <img src="assets/metrics.svg" alt="GitHub metrics: activity, contribution calendar, languages and achievements"/>
-</p>
-
 <!-- ===================== FOOTER ===================== -->
 <p align="center"><i>Thanks for stopping by. Always happy to talk about any technical problems.</i></p>
 
