@@ -1,0 +1,44 @@
+name: Update open-source PRs and pet
+
+on:
+  schedule:
+    - cron: "30 */6 * * *"   # every 6 hours
+  workflow_dispatch:          # run it by hand from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/update_profile.py"
+      - ".github/workflows/profile.yml"
+
+permissions:
+  contents: write
+
+# Shares a group with metrics.yml so the two never push at the same time.
+concurrency:
+  group: profile-commit
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh PR list and pet
+        run: python3 .github/scripts/update_profile.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit if anything changed
+        run: |
+          if [ -z "$(git status --porcelain -- README.md assets/pet.svg)" ]; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/pet.svg
+          git commit -m "chore: refresh open-source PRs and pet"
+          git pull --rebase
+          git push
