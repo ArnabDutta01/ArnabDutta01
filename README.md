@@ -25,13 +25,14 @@ Currently building *NeetDesk*, a scheduler I share with my friends.
 
 <!-- Updated every 6 hours by .github/workflows/profile.yml. Don't edit between the markers. -->
 <!-- PRS:START -->
-**3 merged** across 2 projects · **7 in review**
+**5 merged** across 3 projects · **5 in review**
 
 **Recently merged**
 
+- [kubevela/kubevela#7572](https://github.com/kubevela/kubevela/pull/7572) Fix(defkit): stop CUEGenerator leaking detected imports between Generate\* calls · merged 2026-11-17
+- [kubevela/kubevela#7573](https://github.com/kubevela/kubevela/pull/7573) Fix(multicluster): count control-plane nodes on Kubernetes 1.24+ · merged 2026-11-17
 - [python/typeshed#16852](https://github.com/python/typeshed/pull/16852) \[m3u8\] absolute\_uri and base\_path can return None · merged 2026-11-17
 - [python/typeshed#16831](https://github.com/python/typeshed/pull/16831) \[pyphen\] language\_fallback can return None · merged 2026-11-16
-- [lingdojo/kana-dojo#16765](https://github.com/lingdojo/kana-dojo/pull/16765) content: add video game quote · merged 2026-05-13
 
 **In review**
 
