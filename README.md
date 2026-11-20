@@ -25,21 +25,21 @@ Currently building *NeetDesk*, a scheduler I share with my friends.
 
 <!-- Updated every 6 hours by .github/workflows/profile.yml. Don't edit between the markers. -->
 <!-- PRS:START -->
-**6 merged** across 4 projects · **8 in review**
+**7 merged** across 5 projects · **7 in review**
 
 **Recently merged**
 
+- [SchemaStore/schemastore#6692](https://github.com/SchemaStore/schemastore/pull/6692) fix(mypy): add allow\_redefinition\_old and junit\_format, update allow\_redefinition for mypy 2.0 · merged 2026-11-19
 - [tldr-pages/tldr#25355](https://github.com/tldr-pages/tldr/pull/25355) systemd-run: fix --setenv option · merged 2026-11-19
 - [kubevela/kubevela#7572](https://github.com/kubevela/kubevela/pull/7572) Fix(defkit): stop CUEGenerator leaking detected imports between Generate\* calls · merged 2026-11-17
 - [kubevela/kubevela#7573](https://github.com/kubevela/kubevela/pull/7573) Fix(multicluster): count control-plane nodes on Kubernetes 1.24+ · merged 2026-11-17
-- [python/typeshed#16852](https://github.com/python/typeshed/pull/16852) \[m3u8\] absolute\_uri and base\_path can return None · merged 2026-11-17
 
 **In review**
 
-- [SchemaStore/schemastore#6692](https://github.com/SchemaStore/schemastore/pull/6692) fix(mypy): add allow\_redefinition\_old and junit\_format, update allow\_redefinition for mypy 2.0 · opened 2026-11-19
 - [python/typeshed#16872](https://github.com/python/typeshed/pull/16872) \[pyjks\] BksKeyEntry.type2str() can return None · opened 2026-11-19
 - [kubevela/kubevela#7620](https://github.com/kubevela/kubevela/pull/7620) Fix(defkit): stop trait, policy and step generators leaking imports · opened 2026-11-19
 - [aio-libs/aiohttp#14391](https://github.com/aio-libs/aiohttp/pull/14391) Fix the %% escape in the access log format · opened 2026-11-16
+- [fsspec/filesystem_spec#2467](https://github.com/fsspec/filesystem_spec/pull/2467) Pass share\_access to SMB files opened with autocommit=False · opened 2026-11-16
 <!-- PRS:END -->
 
 ---
