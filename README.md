@@ -25,21 +25,21 @@ Currently building *NeetDesk*, a scheduler I share with my friends.
 
 <!-- Updated every 6 hours by .github/workflows/profile.yml. Don't edit between the markers. -->
 <!-- PRS:START -->
-**9 merged** across 6 projects · **8 in review**
+**10 merged** across 6 projects · **7 in review**
 
 **Recently merged**
 
+- [SchemaStore/schemastore#6698](https://github.com/SchemaStore/schemastore/pull/6698) fix(yamllint): allow quote-type: consistent in quoted-strings rule · merged 2026-11-20
 - [tldr-pages/tldr#25380](https://github.com/tldr-pages/tldr/pull/25380) gdisk: fix -l example · merged 2026-11-20
 - [goreleaser/goreleaser#7323](https://github.com/goreleaser/goreleaser/pull/7323) fix(nix): add arm archives without goarm to the url and sha maps · merged 2026-11-20
 - [SchemaStore/schemastore#6692](https://github.com/SchemaStore/schemastore/pull/6692) fix(mypy): add allow\_redefinition\_old and junit\_format, update allow\_redefinition for mypy 2.0 · merged 2026-11-19
-- [tldr-pages/tldr#25355](https://github.com/tldr-pages/tldr/pull/25355) systemd-run: fix --setenv option · merged 2026-11-19
 
 **In review**
 
-- [SchemaStore/schemastore#6698](https://github.com/SchemaStore/schemastore/pull/6698) fix(yamllint): allow quote-type: consistent in quoted-strings rule · opened 2026-11-20
 - [python/typeshed#16877](https://github.com/python/typeshed/pull/16877) \[django-filter\] Mark to\_html, BaseCSVWidget.value\_from\_datadict and filter\_for\_lookup as possibly None · opened 2026-11-20
 - [python/typeshed#16876](https://github.com/python/typeshed/pull/16876) \[google-cloud-ndb\] from\_environment() can return None · opened 2026-11-20
 - [kubevela/kubevela#7620](https://github.com/kubevela/kubevela/pull/7620) Fix(defkit): stop trait, policy and step generators leaking imports · opened 2026-11-19
+- [aio-libs/aiohttp#14391](https://github.com/aio-libs/aiohttp/pull/14391) Fix the %% escape in the access log format · opened 2026-11-16
 <!-- PRS:END -->
 
 ---
