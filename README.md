@@ -25,14 +25,14 @@ Currently building *NeetDesk*, a scheduler I share with my friends.
 
 <!-- Updated every 6 hours by .github/workflows/profile.yml. Don't edit between the markers. -->
 <!-- PRS:START -->
-**10 merged** across 6 projects · **7 in review**
+**11 merged** across 7 projects · **6 in review**
 
 **Recently merged**
 
+- [a2aproject/a2a-python#1476](https://github.com/a2aproject/a2a-python/pull/1476) fix(client): map JSON-RPC error bodies sent with a non-2xx HTTP status · merged 2026-11-22
 - [SchemaStore/schemastore#6698](https://github.com/SchemaStore/schemastore/pull/6698) fix(yamllint): allow quote-type: consistent in quoted-strings rule · merged 2026-11-20
 - [tldr-pages/tldr#25380](https://github.com/tldr-pages/tldr/pull/25380) gdisk: fix -l example · merged 2026-11-20
 - [goreleaser/goreleaser#7323](https://github.com/goreleaser/goreleaser/pull/7323) fix(nix): add arm archives without goarm to the url and sha maps · merged 2026-11-20
-- [SchemaStore/schemastore#6692](https://github.com/SchemaStore/schemastore/pull/6692) fix(mypy): add allow\_redefinition\_old and junit\_format, update allow\_redefinition for mypy 2.0 · merged 2026-11-19
 
 **In review**
 
