@@ -25,14 +25,14 @@ Currently building *NeetDesk*, a scheduler I share with my friends.
 
 <!-- Updated every 6 hours by .github/workflows/profile.yml. Don't edit between the markers. -->
 <!-- PRS:START -->
-**11 merged** across 7 projects · **6 in review**
+**12 merged** across 8 projects · **5 in review**
 
 **Recently merged**
 
+- [kubeflow/spark-operator#3311](https://github.com/kubeflow/spark-operator/pull/3311) fix(controller): pass message format as the event note, not the action · merged 2026-11-25
 - [a2aproject/a2a-python#1476](https://github.com/a2aproject/a2a-python/pull/1476) fix(client): map JSON-RPC error bodies sent with a non-2xx HTTP status · merged 2026-11-22
 - [SchemaStore/schemastore#6698](https://github.com/SchemaStore/schemastore/pull/6698) fix(yamllint): allow quote-type: consistent in quoted-strings rule · merged 2026-11-20
 - [tldr-pages/tldr#25380](https://github.com/tldr-pages/tldr/pull/25380) gdisk: fix -l example · merged 2026-11-20
-- [goreleaser/goreleaser#7323](https://github.com/goreleaser/goreleaser/pull/7323) fix(nix): add arm archives without goarm to the url and sha maps · merged 2026-11-20
 
 **In review**
 
