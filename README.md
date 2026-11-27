@@ -25,21 +25,21 @@ Currently building *NeetDesk*, a scheduler I share with my friends.
 
 <!-- Updated every 6 hours by .github/workflows/profile.yml. Don't edit between the markers. -->
 <!-- PRS:START -->
-**12 merged** across 8 projects · **8 in review**
+**14 merged** across 8 projects · **6 in review**
 
 **Recently merged**
 
+- [SchemaStore/schemastore#6731](https://github.com/SchemaStore/schemastore/pull/6731) feat(pytest): add max\_warnings, assertion\_text\_diff\_style and parametrize\_long\_str\_id\_strategy · merged 2026-11-27
+- [tldr-pages/tldr#25525](https://github.com/tldr-pages/tldr/pull/25525) xfs\_admin: use short options only · merged 2026-11-27
 - [kubeflow/spark-operator#3311](https://github.com/kubeflow/spark-operator/pull/3311) fix(controller): pass message format as the event note, not the action · merged 2026-11-25
 - [a2aproject/a2a-python#1476](https://github.com/a2aproject/a2a-python/pull/1476) fix(client): map JSON-RPC error bodies sent with a non-2xx HTTP status · merged 2026-11-22
-- [SchemaStore/schemastore#6698](https://github.com/SchemaStore/schemastore/pull/6698) fix(yamllint): allow quote-type: consistent in quoted-strings rule · merged 2026-11-20
-- [tldr-pages/tldr#25380](https://github.com/tldr-pages/tldr/pull/25380) gdisk: fix -l example · merged 2026-11-20
 
 **In review**
 
 - [microsoft/vscode-docs#10782](https://github.com/microsoft/vscode-docs/pull/10782) Use the full files.simpleDialog.enable setting name in tips and tricks · opened 2026-11-27
-- [SchemaStore/schemastore#6731](https://github.com/SchemaStore/schemastore/pull/6731) feat(pytest): add max\_warnings, assertion\_text\_diff\_style and parametrize\_long\_str\_id\_strategy · opened 2026-11-27
-- [tldr-pages/tldr#25525](https://github.com/tldr-pages/tldr/pull/25525) xfs\_admin: use short options only · opened 2026-11-27
 - [python/typeshed#16877](https://github.com/python/typeshed/pull/16877) \[django-filter\] Mark to\_html, BaseCSVWidget.value\_from\_datadict and filter\_for\_lookup as possibly None · opened 2026-11-20
+- [python/typeshed#16876](https://github.com/python/typeshed/pull/16876) \[google-cloud-ndb\] from\_environment() can return None · opened 2026-11-20
+- [kubevela/kubevela#7620](https://github.com/kubevela/kubevela/pull/7620) Fix(defkit): stop trait, policy and step generators leaking imports · opened 2026-11-19
 <!-- PRS:END -->
 
 ---
