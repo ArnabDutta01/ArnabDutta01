@@ -25,7 +25,7 @@ Currently building *NeetDesk*, a scheduler I share with my friends.
 
 <!-- Updated every 6 hours by .github/workflows/profile.yml. Don't edit between the markers. -->
 <!-- PRS:START -->
-**12 merged** across 8 projects · **5 in review**
+**12 merged** across 8 projects · **8 in review**
 
 **Recently merged**
 
@@ -36,10 +36,10 @@ Currently building *NeetDesk*, a scheduler I share with my friends.
 
 **In review**
 
+- [microsoft/vscode-docs#10782](https://github.com/microsoft/vscode-docs/pull/10782) Use the full files.simpleDialog.enable setting name in tips and tricks · opened 2026-11-27
+- [SchemaStore/schemastore#6731](https://github.com/SchemaStore/schemastore/pull/6731) feat(pytest): add max\_warnings, assertion\_text\_diff\_style and parametrize\_long\_str\_id\_strategy · opened 2026-11-27
+- [tldr-pages/tldr#25525](https://github.com/tldr-pages/tldr/pull/25525) xfs\_admin: use short options only · opened 2026-11-27
 - [python/typeshed#16877](https://github.com/python/typeshed/pull/16877) \[django-filter\] Mark to\_html, BaseCSVWidget.value\_from\_datadict and filter\_for\_lookup as possibly None · opened 2026-11-20
-- [python/typeshed#16876](https://github.com/python/typeshed/pull/16876) \[google-cloud-ndb\] from\_environment() can return None · opened 2026-11-20
-- [kubevela/kubevela#7620](https://github.com/kubevela/kubevela/pull/7620) Fix(defkit): stop trait, policy and step generators leaking imports · opened 2026-11-19
-- [aio-libs/aiohttp#14391](https://github.com/aio-libs/aiohttp/pull/14391) Fix the %% escape in the access log format · opened 2026-11-16
 <!-- PRS:END -->
 
 ---
